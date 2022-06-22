@@ -1,0 +1,9 @@
+.carousel .thum img {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.carousel .slide img {
+    max-height: 75vh;
+    width: auto;
+}
